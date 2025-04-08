@@ -1,1 +1,1 @@
-# Elavatelabpowerbi-task2
+I designed a Power BI Superstore Dashboard layout with key visuals like KPIs (Sales, Profit, Margin), trend charts,category analysis, top products, and customer segments. We also added interactive filters and design tips. Finally, we created a simple DAX formula for Profit Margin (%) after that i make a power BI report for Good Understanding
